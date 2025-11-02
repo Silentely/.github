@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🚀 功能请求
+    url: https://github.com/Silentely/.github/issues/new?assignees=&labels=enhancement&template=feature_request.md
+    about: 建议一个新功能或改进
+  - name: 🐛 错误报告
+    url: https://github.com/Silentely/.github/issues/new?assignees=&labels=bug&template=bug_report.md
+    about: 报告一个错误帮助我们改进
